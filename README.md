@@ -6,3 +6,9 @@ Refer to this link [here](https://github.com/facebookincubator/create-react-app/
 
 This is a simple React todo app that I built for a React Workshop that I did.
 It's heavly commented to aim at being a helpful guide to people just gettting into React. 😄
+
+To run this project, first clone it to your machine. Then when your inside project run the following commands.
+
+`npm install` or `yarn install`
+
+`npm start` or `yarn start`
